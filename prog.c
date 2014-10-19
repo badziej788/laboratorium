@@ -1,4 +1,13 @@
 #include <stdio.h> 
-int main() 
-printf("program c");
+
+
+int kwadrat(int n)
+{
+    return n*n;
+}
+
+int main()
+{ 
+printf("prograaaaaa dsadasam c");
 return 0;
+}
